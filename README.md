@@ -13,5 +13,5 @@ BookstoreApp is a modern mobile application developed using React Native and Exp
   <img src="https://img.shields.io/badge/README.txt-View-grey?style=for-the-badge&logo=file&logoColor=white" alt="README.txt Badge"></a>
 
 <!-- PDF Badge -->
-<a href="https://github.com/JoshuaThadi/BookStore/blob/main/Mobile-Apps/bookstore/New%20Doc%2005-31-2025%2020.25.pdf" target="_blank">
+<a href="https://github.com/JoshuaThadi/BookStore/blob/main/Mobile-Apps/bookstore/bookstore-pdf.pdf" target="_blank">
   <img src="https://img.shields.io/badge/PDF-View-grey?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF Badge"></a>
