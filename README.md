@@ -15,3 +15,7 @@ BookstoreApp is a modern mobile application developed using React Native and Exp
 <!-- README.md Badge -->
 <a href="https://github.com/JoshuaThadi/Mobile-Apps/blob/main/Mobile-Apps/bookstore/readme.md" target="_blank">
   <img src="https://img.shields.io/badge/README.md-Open-grey?style=for-the-badge&logo=markdown&logoColor=white" alt="README.md Badge"></a>
+
+---
+
+⚠️ This Repository is uniquely designed by JoshuaThadi. 
