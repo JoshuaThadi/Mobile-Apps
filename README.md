@@ -1,4 +1,4 @@
-<h1>1] BookStoreApp ★</h1>
+<h1>1] BookStoreApp</h1>
 
 <img width="100%" src="https://github.com/JoshuaThadi/Mobile-Apps/blob/main/Mobile-Apps/bookstore/bookstore-2.png">
 
