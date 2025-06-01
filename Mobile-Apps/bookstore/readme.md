@@ -6,7 +6,7 @@ This full-stack application enables functionalities like browsing book lists, vi
 <div align="center">
   <img src="https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png" style="width: 60px;" alt="React Logo" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp" style="width: 60px;" alt="Node.js Logo" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174949.png?f=webp" style="width: 60px;" alt="JavaScript Logo" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174949.png?f=webp" style="width: 60px;" alt="JavaScript Logo" /><br>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITHn_TgjDyhdWvePNw0mveDrTUr00GLfv_Q&s" style="width: 60px;" alt="MongoDB Logo" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5d-YG1OqK53sDiYDYTyrWOrJUOXgkm8ZJ_Q&s" style="width: 60px;" alt="Zustand Logo (assumed)" />
   <img width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcmKD370zZ_gDhMVzMYuwJQfG_bndLTG-BQ&s" alt="Express.js Logo" />
