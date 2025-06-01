@@ -13,12 +13,25 @@ This full-stack application enables functionalities like browsing book lists, vi
 </div>
 
 <br>
+
+
+
 <!-- Source Code Badge -->
 <div align="center">
+
+<!-- README.txt Badge -->
+<a href="https://github.com/JoshuaThadi/Mobile-Apps/blob/main/Mobile-Apps/bookstore/readme.txt" target="_blank">
+  <img src="https://img.shields.io/badge/README.txt-View-grey?style=for-the-badge&logo=file&logoColor=white" alt="README.txt Badge"></a>
+  
   <a align="center" href="https://github.com/JoshuaThadi/Mobile-Apps/tree/main/Mobile-Apps/bookstore" target="_blank">
     <img src="https://img.shields.io/badge/Source%20Code-grey?style=for-the-badge&logo=github" alt="Source Code"></a>
   
 <!-- Home Page Badge -->
   <a align="center" href="https://github.com/JoshuaThadi/Mobile-Apps" target="_blank">
     <img src="https://img.shields.io/badge/Home%20Page-grey?style=for-the-badge&logo=github" alt="Home Page"></a>
+
+<!-- PDF Badge -->
+<a href="https://github.com/JoshuaThadi/Mobile-Apps/blob/main/Mobile-Apps/bookstore/bookstore-pdf.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/PDF-View-grey?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF Badge"></a>
+  
 </div>
