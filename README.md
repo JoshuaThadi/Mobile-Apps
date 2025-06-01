@@ -10,11 +10,11 @@ BookstoreApp is a modern mobile application developed using React Native and Exp
 
 
 <div align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png?f=webp&w=256" style="width: 60px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9LjgzCpES-ZQDftN8oxb_7fe1xvpgnnzOND0STDv0B0Zq6cRK5pZu7wdUnn_6h-J5Jx0&usqp=CAU" style="width: 60px;" alt="Node.js Logo" />
-  <img src="https://cdn-icons-png.freepik.com/512/5968/5968292.png" style="width: 60px;" alt="JavaScript Logo" /><br>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITHn_TgjDyhdWvePNw0mveDrTUr00GLfv_Q&s" style="width: 60px;" alt="MongoDB Logo" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5d-YG1OqK53sDiYDYTyrWOrJUOXgkm8ZJ_Q&s" style="width: 60px;" alt="Zustand Logo (assumed)" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png?f=webp&w=256" style="width: 50px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9LjgzCpES-ZQDftN8oxb_7fe1xvpgnnzOND0STDv0B0Zq6cRK5pZu7wdUnn_6h-J5Jx0&usqp=CAU" style="width: 50px;" alt="Node.js Logo" />
+  <img src="https://cdn-icons-png.freepik.com/512/5968/5968292.png" style="width: 50px;" alt="JavaScript Logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITHn_TgjDyhdWvePNw0mveDrTUr00GLfv_Q&s" style="width: 50px;" alt="MongoDB Logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5d-YG1OqK53sDiYDYTyrWOrJUOXgkm8ZJ_Q&s" style="width: 50px;" alt="Zustand Logo (assumed)" />
   <img width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcmKD370zZ_gDhMVzMYuwJQfG_bndLTG-BQ&s" alt="Express.js Logo" />
 </div>
 
