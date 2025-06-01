@@ -15,7 +15,7 @@ BookstoreApp is a modern mobile application developed using React Native and Exp
   <img src="https://cdn-icons-png.freepik.com/512/5968/5968292.png" style="width: 50px;" alt="JavaScript Logo" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITHn_TgjDyhdWvePNw0mveDrTUr00GLfv_Q&s" style="width: 50px;" alt="MongoDB Logo" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5d-YG1OqK53sDiYDYTyrWOrJUOXgkm8ZJ_Q&s" style="width: 50px;" alt="Zustand Logo (assumed)" />
-  <img width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcmKD370zZ_gDhMVzMYuwJQfG_bndLTG-BQ&s" alt="Express.js Logo" />
+  <img width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcmKD370zZ_gDhMVzMYuwJQfG_bndLTG-BQ&s" alt="Express.js Logo" />
 </div>
 
 <br>
