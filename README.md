@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/JoshuaThadi/Mobile-Apps/blob/main/mob-banner.png">
+<img width="100%" src="https://github.com/JoshuaThadi/Mobile-Apps/blob/main/madb1.png">
 
 <h3 align="center">❂ Mobile App Development</h3>
 <div align="center">
