@@ -11,12 +11,12 @@ Mobile app development involves creating software applications that run on smart
 <div align="left">
   <a href="https://developer.android.com" target="_blank">
     <img src="https://img.shields.io/badge/Android%20Developer-Kotlin%2FJava-55FAC3?style=for-the-badge&logo=android&logoColor=white" alt="Android Developer Badge"></a>
+
+ <a href="https://flutter.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-Google%20UI%20Toolkit-1E90FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"></a>
   
   <a href="https://developer.apple.com" target="_blank">
     <img src="https://img.shields.io/badge/Apple%20Developer-Swift-A6A2A2?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Developer Badge"></a>
-  
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-Google%20UI%20Toolkit-1E90FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"></a>
   
   <a href="https://reactnative.dev" target="_blank">
     <img src="https://img.shields.io/badge/React%20Native-by%20Meta-55D1FA?style=for-the-badge&logo=react&logoColor=white" alt="React Native Badge"></a>
