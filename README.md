@@ -24,7 +24,7 @@ Mobile app development involves creating software applications that run on smart
 
 ---
 
-<h3>1] BookStoreApp {P-1}</h3>
+<h3>1] BookStoreApp {Project-1}</h3>
 
 <img width="100%" src="https://github.com/JoshuaThadi/Mobile-Apps/blob/main/Mobile-Apps/bookstore/bookstore-3.png"><img width="100%" src="https://github.com/JoshuaThadi/Mobile-Apps/blob/main/Mobile-Apps/bookstore/bookstore-1.png">
 
