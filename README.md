@@ -1,8 +1,10 @@
 <img width="100%" src="https://github.com/JoshuaThadi/Mobile-Apps/blob/main/mob-banner.png">
+
 <h3 align="center">❂ Mobile App Development</h3>
+
 Mobile app development involves creating software applications that run on smartphones and tablets. It includes native development (e.g., Swift for iOS and Kotlin for Android) and cross-platform frameworks (e.g., Flutter and React Native). Developers build responsive, efficient, and user-friendly apps using SDKs, APIs, and platform-specific tools.<br>
 
-<div align="center">
+<div align="left">
   <a href="https://developer.android.com" target="_blank">
     <img src="https://img.shields.io/badge/Android%20Developer-Kotlin%2FJava-55FAC3?style=for-the-badge&logo=android&logoColor=white" alt="Android Developer Badge"></a>
   
@@ -16,6 +18,7 @@ Mobile app development involves creating software applications that run on smart
     <img src="https://img.shields.io/badge/React%20Native-by%20Meta-55D1FA?style=for-the-badge&logo=react&logoColor=white" alt="React Native Badge"></a>
 </div>
 
+---
 
 <h3>1] BookStoreApp</h3>
 
