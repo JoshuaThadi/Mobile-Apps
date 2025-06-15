@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/badge/README.md-RoadMap-grey?style=for-the-badge&logo=markdown&logoColor=white" alt="README Badge"></a>
 </div>
 <br>
-Mobile app development involves creating software applications that run on smartphones and tablets. It includes native development (e.g., Swift for iOS and Kotlin for Android) and cross-platform frameworks (e.g., Flutter and React Native). Developers build responsive, efficient, and user-friendly apps using SDKs, APIs, and platform-specific tools.<br>
+
+>Mobile app development involves creating software applications that run on smartphones and tablets. It includes native development (e.g., Swift for iOS and Kotlin for Android) and cross-platform frameworks (e.g., Flutter and React Native). Developers build responsive, efficient, and user-friendly apps using SDKs, APIs, and platform-specific tools.<br>
+
 <br>
 <div align="left">
   <a href="https://developer.android.com" target="_blank">
