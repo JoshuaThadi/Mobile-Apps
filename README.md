@@ -70,4 +70,6 @@
 
 ---
 
+<div align="center">
 ⚠️ This Repository is uniquely designed by JoshuaThadi. 
+</div>
