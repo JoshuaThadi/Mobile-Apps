@@ -2,7 +2,7 @@
 
 <h3 align="center">❂ Mobile App Development</h3>
 <div align="center">
-<a href="https://github.com/JoshuaThadi/Mobile-Apps/blob/main/MobileApps/roadmap.md" target="_blank">
+<a href="https://github.com/JoshuaThadi/Mobile-Apps/blob/main/roadmap.md" target="_blank">
   <img src="https://img.shields.io/badge/README.md-RoadMap-grey?style=for-the-badge&logo=markdown&logoColor=white" alt="README Badge"></a>
 </div>
 <br>
